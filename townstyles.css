@@ -202,5 +202,13 @@ section {
 }
 
 main h3 {
-  #06E00C
+  color: #06E00C;
+}
+
+.green {
+  color: #06E00C;
+}
+
+.blue {
+  color: #1F51FF;
 }
