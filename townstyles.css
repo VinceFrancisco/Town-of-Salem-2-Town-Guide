@@ -56,25 +56,25 @@ nav {
 }
 
 #neutral:hover {
-  color: gray;
+  color: #A7A7A7;
   background-color: white;
   padding: 5px;
 }
 
 #apoc:hover {
-  color: red;
+  color: #FF004E;
   background-color: white;
   padding: 5px;
 }
 
 #cov:hover {
-  color: #660066;
+  color: #B545FF;
   background-color: white;
   padding: 5px;
 }
 
 #town:hover {
-  color: green;
+  color: #1F51FF;
   background-color: white;
   padding: 5px;
 }
